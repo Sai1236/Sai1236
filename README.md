@@ -1,3 +1,6 @@
+![Open to Work](https://img.shields.io/badge/Open_to_Work-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Sai1236&color=blue&style=flat)
+
 # Hi, I'm Sai Jaswanth 👋
 
 Data Analyst who turns raw, messy data into clear decisions and visual stories.
