@@ -54,6 +54,7 @@ protein breakdowns across major chains using Python and Pandas.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai1236&layout=compact&theme=dark&hide_border=true)
 
 ---
+![snake gif](https://github.com/Sai1236/Sai1236/blob/output/github-snake-dark.svg)
 
 ## 🌱 Currently Working On
 - Building a sales analytics dashboard in Power BI with real-world retail data
